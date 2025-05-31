@@ -2,6 +2,8 @@
 
 Hier werden Freecad-Modelle veröffentlich, die im Rahmen von Beiträgen auf der Seite https://klein-kram.com veröffentlicht werden.
 
+Eine Anleitung zum Nachvollziehen des Prismas findet man auf der Seite https://klein-kram.com/freecad-konstruktion/
+
 Weitere Infos:
 
 Link zum Wiki-Beitrag:
